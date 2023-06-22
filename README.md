@@ -2,7 +2,7 @@
  * @Author: MahoChan 1816212003@stu.hqu.edu.cn
  * @Date: 2023-06-21 12:51:27
  * @LastEditors: MahoChan 1816212003@stu.hqu.edu.cn
- * @LastEditTime: 2023-06-21 16:43:41
+ * @LastEditTime: 2023-06-21 20:35:34
  * @FilePath: \AI-tools-collection\README.md
 -->
 # AI-tools-collection
@@ -20,9 +20,9 @@ Project link :
 
 ### 2.Auto-GPT
 Description:
-> Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.
+> Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI. (NOTE: It is recommended to use a virtual machine/container (docker) for tasks that require high security measures to prevent any potential harm to the main computer's system and data.)
 
-> Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。这个程序由GPT-4驱动，将LLM的 "思想"串联起来，自主地实现你设定的任何目标。作为GPT-4完全自主运行的首批例子之一，Auto-GPT推动了人工智能可能的边界。（不过某些任务可能非常消耗token）
+> Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。这个程序由GPT-4驱动，将LLM的 "思想"串联起来，自主地实现你设定的任何目标。作为GPT-4完全自主运行的首批例子之一，Auto-GPT推动了人工智能可能的边界。（注意！建议在虚拟机或docker等容器中运行，因为它可能会自动地修改甚至删除你计算机上的文件）
 
 Project link : 
 - https://github.com/Significant-Gravitas/Auto-GPT
